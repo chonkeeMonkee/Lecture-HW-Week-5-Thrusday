@@ -187,7 +187,7 @@ int krpx(int x) {
 
   while (i){
     --i; 
-     kputc(c[i]);
+    kputc(c[i]);
   }
 }
 
